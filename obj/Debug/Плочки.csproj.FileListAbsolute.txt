@@ -1,0 +1,5 @@
+C:\Users\Acer\Desktop\C#\NightExam\Плочки\bin\Debug\Плочки.exe.config
+C:\Users\Acer\Desktop\C#\NightExam\Плочки\bin\Debug\Плочки.exe
+C:\Users\Acer\Desktop\C#\NightExam\Плочки\bin\Debug\Плочки.pdb
+C:\Users\Acer\Desktop\C#\NightExam\Плочки\obj\Debug\Плочки.exe
+C:\Users\Acer\Desktop\C#\NightExam\Плочки\obj\Debug\Плочки.pdb
